@@ -1,0 +1,48 @@
+{
+  "name": "create-asktemp",
+  "version": "1.0.0",
+  "description": "CLI tool to create RTL Arabic dashboard projects with authentication and theme system",
+  "main": "src/index.js",
+  "bin": {
+    "create-asktemp": "./bin/index.js"
+  },
+  "files": [
+    "bin",
+    "src",
+    "template",
+    "README.md"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prepublishOnly": "echo \"Publishing create-asktemp CLI package...\""
+  },
+  "keywords": [
+    "cli",
+    "template",
+    "nextjs",
+    "rtl",
+    "arabic",
+    "dashboard",
+    "authentication",
+    "shadcn",
+    "tailwind"
+  ],
+  "author": "MunAsk",
+  "license": "MIT",
+  "preferGlobal": true,
+  "dependencies": {
+    "fs-extra": "^11.1.1",
+    "chalk": "^4.1.2"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/create-asktemp.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yourusername/create-asktemp/issues"
+  },
+  "homepage": "https://github.com/yourusername/create-asktemp#readme"
+}
