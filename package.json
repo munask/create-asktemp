@@ -39,10 +39,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/yourusername/create-asktemp.git"
-  },
-  "bugs": {
-    "url": "https://github.com/yourusername/create-asktemp/issues"
-  },
-  "homepage": "https://github.com/yourusername/create-asktemp#readme"
+    "url": "https://github.com/munask/create-asktemp.git"
+  }
 }
